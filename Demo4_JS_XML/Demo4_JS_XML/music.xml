@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<musics>
+  <music>
+      <name>菊花残</name>
+      <time>180</time>
+      <zhuanji>无</zhuanji>
+      <price>1</price>
+  </music>
+  <music>
+      <name>青花瓷</name>
+      <time>200</time>
+      <zhuanji>未知</zhuanji>
+      <price>3</price>
+  </music>
+  <music>
+      <name>听妈妈的话</name>
+      <time>150</time>
+      <zhuanji>不知道</zhuanji>
+      <price>2</price>
+  </music>
+  <music>
+      <name>园游会</name>
+      <time>180</time>
+      <zhuanji>知不道</zhuanji>
+      <price>4</price>
+  </music>
+</musics>
